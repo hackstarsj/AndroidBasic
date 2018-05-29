@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidBasic</string>
+    <string-array name="items">
+        <item>1</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+</resources>
